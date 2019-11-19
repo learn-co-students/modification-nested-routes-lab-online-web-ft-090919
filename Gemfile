@@ -9,7 +9,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'rails-controller-testing'
 gem 'bootsnap'
 group :development, :test do
-  gem 'pry'
+  gem 'pry-moves'
   gem 'capybara'
   gem 'rspec-rails'
   gem 'shoulda'
